@@ -1,0 +1,208 @@
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\ApplicationInsights.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\PMSapi.dll.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\PMSapi.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\PMSapi.pdb
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csc.exe
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csc.exe.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csc.rsp
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csi.exe
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csi.exe.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\csi.rsp
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.AppContext.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Collections.Immutable.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Console.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.IO.Compression.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.IO.FileSystem.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.IO.Pipes.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.AccessControl.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Claims.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.ValueTuple.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Xml.XPath.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\vbc.exe
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\vbc.exe.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\vbc.rsp
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\VBCSCompiler.exe
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\roslyn\VBCSCompiler.exe.config
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Antlr3.Runtime.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\EntityFramework.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\EntityFramework.SqlServer.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.Web.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.WindowsServer.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.ApplicationInsights.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Newtonsoft.Json.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Net.Http.Formatting.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Cors.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Helpers.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.Cors.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.WebHost.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Mvc.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Optimization.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Razor.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.Deployment.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.Razor.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\WebGrease.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\EntityFramework.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\EntityFramework.SqlServer.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Net.Http.Formatting.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.Cors.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Newtonsoft.Json.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Helpers.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Http.WebHost.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Mvc.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Optimization.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.Razor.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.Deployment.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Web.WebPages.Razor.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Antlr3.Runtime.pdb
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.WindowsServer.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.AI.Web.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\obj\Debug\PMSapi.csprojAssemblyReference.cache
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\obj\Debug\PMSapi.csproj.CoreCompileInputs.cache
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\obj\Debug\PMSapi.csproj.CopyComplete
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\obj\Debug\PMSapi.dll
+D:\Ajmat\RnD\Product-MS\PMSapi\PMSapi\obj\Debug\PMSapi.pdb
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\ApplicationInsights.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\PMSapi.dll.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\PMSapi.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\PMSapi.pdb
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csc.exe
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csc.exe.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csc.rsp
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csi.exe
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csi.exe.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\csi.rsp
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.AppContext.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Collections.Immutable.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Console.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.IO.Compression.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.IO.FileSystem.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.IO.Pipes.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.AccessControl.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Claims.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.ValueTuple.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Xml.XPath.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\vbc.exe
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\vbc.exe.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\vbc.rsp
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\VBCSCompiler.exe
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\roslyn\VBCSCompiler.exe.config
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Antlr3.Runtime.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\EntityFramework.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\EntityFramework.SqlServer.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.Web.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.WindowsServer.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.ApplicationInsights.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Newtonsoft.Json.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Net.Http.Formatting.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Cors.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Helpers.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.Cors.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.WebHost.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Mvc.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Optimization.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Razor.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.Deployment.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.Razor.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\WebGrease.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\EntityFramework.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\EntityFramework.SqlServer.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Net.Http.Formatting.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.Cors.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Newtonsoft.Json.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Helpers.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Http.WebHost.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Mvc.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Optimization.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.Razor.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.Deployment.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Web.WebPages.Razor.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Antlr3.Runtime.pdb
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.WindowsServer.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.AI.Web.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\obj\Debug\PMSapi.csprojAssemblyReference.cache
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\obj\Debug\PMSapi.csproj.CoreCompileInputs.cache
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\obj\Debug\PMSapi.csproj.CopyComplete
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\obj\Debug\PMSapi.dll
+D:\Agilsys\TestAssignment (2)\TestAssignment\PMSapi\PMSapi\obj\Debug\PMSapi.pdb

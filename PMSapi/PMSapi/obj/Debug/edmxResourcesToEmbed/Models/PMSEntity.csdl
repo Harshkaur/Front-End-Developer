@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PMSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="PMSModel.Category" />
+    <EntitySet Name="Products" EntityType="PMSModel.Product" />
+    <EntitySet Name="Users" EntityType="PMSModel.User" />
+    <EntitySet Name="Vendors" EntityType="PMSModel.Vendor" />
+    <EntitySet Name="VendorBranches" EntityType="PMSModel.VendorBranch" />
+    <EntitySet Name="VendorProducts" EntityType="PMSModel.VendorProduct" />
+    <AssociationSet Name="FK_Product_Category" Association="PMSModel.FK_Product_Category">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VendorProduct_Product" Association="PMSModel.FK_VendorProduct_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="VendorProduct" EntitySet="VendorProducts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VendorProduct_VendorBranch" Association="PMSModel.FK_VendorProduct_VendorBranch">
+      <End Role="VendorBranch" EntitySet="VendorBranches" />
+      <End Role="VendorProduct" EntitySet="VendorProducts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ParentCategoryID" Type="Int32" />
+    <NavigationProperty Name="Products" Relationship="PMSModel.FK_Product_Category" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CategoryId" Type="Int32" />
+    <Property Name="ImagePath" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Category" Relationship="PMSModel.FK_Product_Category" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="VendorProducts" Relationship="PMSModel.FK_VendorProduct_Product" FromRole="Product" ToRole="VendorProduct" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VendorBranchId" Type="Int32" Nullable="false" />
+    <Property Name="RoleID" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Vendor">
+    <Key>
+      <PropertyRef Name="VendorId" />
+    </Key>
+    <Property Name="VendorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Zipcode" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="VendorBranch">
+    <Key>
+      <PropertyRef Name="VendorBranchId" />
+    </Key>
+    <Property Name="VendorBranchId" Type="Int32" Nullable="false" />
+    <Property Name="BranchName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ManagerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="VendorProducts" Relationship="PMSModel.FK_VendorProduct_VendorBranch" FromRole="VendorBranch" ToRole="VendorProduct" />
+  </EntityType>
+  <EntityType Name="VendorProduct">
+    <Key>
+      <PropertyRef Name="VendorProductId" />
+    </Key>
+    <Property Name="VendorProductId" Type="Int32" Nullable="false" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Rate" Type="Int32" Nullable="false" />
+    <Property Name="VendorBranchId" Type="Int32" Nullable="false" />
+    <Property Name="VendorId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="PMSModel.FK_VendorProduct_Product" FromRole="VendorProduct" ToRole="Product" />
+    <NavigationProperty Name="VendorBranch" Relationship="PMSModel.FK_VendorProduct_VendorBranch" FromRole="VendorProduct" ToRole="VendorBranch" />
+  </EntityType>
+  <Association Name="FK_Product_Category">
+    <End Type="PMSModel.Category" Role="Category" Multiplicity="0..1" />
+    <End Type="PMSModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VendorProduct_Product">
+    <End Type="PMSModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="PMSModel.VendorProduct" Role="VendorProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="VendorProduct">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VendorProduct_VendorBranch">
+    <End Type="PMSModel.VendorBranch" Role="VendorBranch" Multiplicity="1" />
+    <End Type="PMSModel.VendorProduct" Role="VendorProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VendorBranch">
+        <PropertyRef Name="VendorBranchId" />
+      </Principal>
+      <Dependent Role="VendorProduct">
+        <PropertyRef Name="VendorBranchId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
